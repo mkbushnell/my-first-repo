@@ -6,19 +6,20 @@ html {
     box-sizing: border-box;
 }
 body {
-    background-color: lemonchiffon;
+    background-color: #ffffcc;
     height: 100%;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     align-items: center;
     font-size: 16px;
+    font-style: italic;
 
 }
 
 .greeting {
     width: 90%;
-    max-width: 600px;
+    max-width: 800px;
     text-align: center;
     border: 2px solid #444;
     padding: 2em;
